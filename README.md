@@ -1,0 +1,3 @@
+- [Install Sympana Connector](https://www.sympana.com/connector)
+- [Learn how to use Sympana Connector](https://www.sympana.com/university)
+- [Get fifty pre built GoHighLevel automations](https://www.sympana.com/pre-built-automations)
